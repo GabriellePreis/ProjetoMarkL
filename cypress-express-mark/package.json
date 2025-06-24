@@ -1,0 +1,14 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de Testes ponta a ponta no Mak L",
+  "main": "index.js",
+  "author": "Gabrielle",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "allure-commandline": "^2.34.0",
+    "cypress": "^14.4.1",
+    "http-server": "^14.1.1"
+  }
+}
